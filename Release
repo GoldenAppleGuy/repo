@@ -1,0 +1,16 @@
+Origin: GoldenAppleGuy
+Label: GoldenAppleGuy
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm iphoneos-arm64
+Components: main
+Description: Jailbreak tweaks by GoldenAppleGuy
+MD5Sum:
+ 01f701c6c55d5447f8bd344522b323aa 1869 Packages
+ 2bfe93a6d4cd1aef5ea42de11dd3a756 655 Packages.gz
+ dbd0eedd4a0f653c9d2df554581aae9b 803 Packages.bz2
+SHA256:
+ 472f6397af42c05b891d6967e7a77aea5c9455c414e56d19c0fdb6c41faf3b7d 1869 Packages
+ 8c9c1bd0f3d31a4b221fbb19ffc61b59d62f097b4adf5eff56df5713b62d3888 655 Packages.gz
+ 2ae59034683ac4110a309fe89ae7b60c50c8b428500856b15704ee4c51bb57c0 803 Packages.bz2
