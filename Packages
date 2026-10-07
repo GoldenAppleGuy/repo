@@ -35,3 +35,41 @@ SHA1: 3c5f07ac82ad67b54b758479823ad36b42cfc9d3
 SHA256: 9c392c79c1ca26b7bb8c29ada5eb9ecdcb3102900399cd9b3778b98ee4c522fc
 Icon: https://goldenappleguy.github.io/repo/icons/com.goldenappleguy.confirmrotatereborn.png
 SileoDepiction: https://goldenappleguy.github.io/repo/depictions/com.goldenappleguy.confirmrotatereborn.json
+
+Package: com.goldenappleguy.confirmrotatereborn
+Name: ConfirmRotate Reborn
+Description: Asks before the screen rotates. A button appears, turned to the new orientation; tap it to rotate. A modern take on ConfirmRotate for iOS 15 to 17.
+Maintainer: GoldenAppleGuy
+Author: GoldenAppleGuy
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, firmware (>= 15.0)
+Recommends: com.opa334.ccsupport
+Architecture: iphoneos-arm
+Version: 1.0.1
+Installed-Size: 728
+Filename: debs/com.goldenappleguy.confirmrotatereborn_1.0.1_iphoneos-arm.deb
+Size: 55388
+MD5sum: 53c15a25b9f433668dfea7589b906a1b
+SHA1: c01ecee4d8c6ec5057d98d745ff44273dfb05dbe
+SHA256: d78a6259ed8be5fecf6369c2f7e4b8a6c31681169a37c403e70b9d0f3501f7cb
+Icon: https://goldenappleguy.github.io/repo/icons/com.goldenappleguy.confirmrotatereborn.png
+SileoDepiction: https://goldenappleguy.github.io/repo/depictions/com.goldenappleguy.confirmrotatereborn.json
+
+Package: com.goldenappleguy.confirmrotatereborn
+Name: ConfirmRotate Reborn
+Description: Asks before the screen rotates. A button appears, turned to the new orientation; tap it to rotate. A modern take on ConfirmRotate for iOS 15 to 17.
+Maintainer: GoldenAppleGuy
+Author: GoldenAppleGuy
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, firmware (>= 15.0)
+Recommends: com.opa334.ccsupport
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Installed-Size: 728
+Filename: debs/com.goldenappleguy.confirmrotatereborn_1.0.1_iphoneos-arm64.deb
+Size: 55326
+MD5sum: 47c635ca34fd73c11ae19622c34ccec0
+SHA1: bd914a1bf14532361f0aca2c67f274a4a95eb594
+SHA256: 5415a0a5bea7504cea46a98a818e7b281ed8c799572f5517da00f2b447a34cfe
+Icon: https://goldenappleguy.github.io/repo/icons/com.goldenappleguy.confirmrotatereborn.png
+SileoDepiction: https://goldenappleguy.github.io/repo/depictions/com.goldenappleguy.confirmrotatereborn.json
