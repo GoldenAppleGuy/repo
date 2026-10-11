@@ -3,14 +3,14 @@ Label: GoldenAppleGuy
 Suite: stable
 Version: 1.0
 Codename: ios
-Architectures: iphoneos-arm iphoneos-arm64
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: Jailbreak tweaks by GoldenAppleGuy
 MD5Sum:
- 0370d35f970da86888f62dc5b8ce1164 3739 Packages
- 6e8112cf6a33c860c57970954b656837 872 Packages.gz
- 47f5d0dd187e564037eff2d0c0d8b8fe 1052 Packages.bz2
+ eca8034e6b3578af86f7a03bd9bccc7c 6548 Packages
+ b15fc03fc3f6bd6fd94144d7c4479218 1207 Packages.gz
+ b5634cdf13591ea3d133be1cba0fd997 1433 Packages.bz2
 SHA256:
- af6d067ab96b3fdbabb56aedcceb1462ef202414142be45df026d8093f178bbb 3739 Packages
- e69374b2c89074744abcc4de81f636d1beb16bfa17370f9e8cc9173f724b389b 872 Packages.gz
- 261a786680a72c01f70cbaff5e7100c11d62ddaa4af3b215d51f245736f42447 1052 Packages.bz2
+ 2af8f23991878d74f7278d3cfa87cc2d1eb6b209235962736cacd89f1716e556 6548 Packages
+ 82298dccd05e579ed293ab3a93e2409f19da8f9f4b5c1225aa0e0050a67fa74d 1207 Packages.gz
+ 2e8ca0baf5f60c4006b8b3432d89845c75f4f72946160f016381f1c66e802f5f 1433 Packages.bz2
