@@ -187,3 +187,60 @@ SHA1: c0cc7b543e2e8ec24ee5c40d6558efc2019d7f5b
 SHA256: ab294252dff2ae00d11447bb2d559af6993e997b3d6d48c97b385cd1c4459ce8
 Icon: https://goldenappleguy.github.io/repo/icons/com.goldenappleguy.confirmrotatereborn.png
 SileoDepiction: https://goldenappleguy.github.io/repo/depictions/com.goldenappleguy.confirmrotatereborn.json
+
+Package: com.goldenappleguy.confirmrotatereborn
+Name: ConfirmRotate Reborn
+Description: Asks before the screen rotates. A button appears, turned to the new orientation; tap it to rotate. A modern take on ConfirmRotate for iOS 15 to 18.
+Maintainer: GoldenAppleGuy
+Author: GoldenAppleGuy
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, firmware (>= 15.0)
+Recommends: com.opa334.ccsupport
+Architecture: iphoneos-arm
+Version: 1.0.4
+Installed-Size: 872
+Filename: debs/com.goldenappleguy.confirmrotatereborn_1.0.4_iphoneos-arm.deb
+Size: 78998
+MD5sum: 3958a705bfb25268e16030fac838d749
+SHA1: c302d46e27ee9e99e9929dca07fb2d9ef6523774
+SHA256: 45bc16933b176106cefc16c30c582697eb32eaadc059ae15a8181a92b259104d
+Icon: https://goldenappleguy.github.io/repo/icons/com.goldenappleguy.confirmrotatereborn.png
+SileoDepiction: https://goldenappleguy.github.io/repo/depictions/com.goldenappleguy.confirmrotatereborn.json
+
+Package: com.goldenappleguy.confirmrotatereborn
+Name: ConfirmRotate Reborn
+Description: Asks before the screen rotates. A button appears, turned to the new orientation; tap it to rotate. A modern take on ConfirmRotate for iOS 15 to 18.
+Maintainer: GoldenAppleGuy
+Author: GoldenAppleGuy
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, firmware (>= 15.0)
+Recommends: com.opa334.ccsupport
+Architecture: iphoneos-arm64
+Version: 1.0.4
+Installed-Size: 872
+Filename: debs/com.goldenappleguy.confirmrotatereborn_1.0.4_iphoneos-arm64.deb
+Size: 79176
+MD5sum: bef38dd52f75b586667459fbb9d724b6
+SHA1: e8dafca404ffdfda6cc7ecfdfbb25314680ca4d7
+SHA256: a64e7d84dba2c3f0435537db04b1d0f5dcaefc35297e13fffac7165e8e839346
+Icon: https://goldenappleguy.github.io/repo/icons/com.goldenappleguy.confirmrotatereborn.png
+SileoDepiction: https://goldenappleguy.github.io/repo/depictions/com.goldenappleguy.confirmrotatereborn.json
+
+Package: com.goldenappleguy.confirmrotatereborn
+Name: ConfirmRotate Reborn
+Description: Asks before the screen rotates. A button appears, turned to the new orientation; tap it to rotate. A modern take on ConfirmRotate for iOS 15 to 18.
+Maintainer: GoldenAppleGuy
+Author: GoldenAppleGuy
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, firmware (>= 15.0)
+Recommends: com.opa334.ccsupport
+Architecture: iphoneos-arm64e
+Version: 1.0.4
+Installed-Size: 872
+Filename: debs/com.goldenappleguy.confirmrotatereborn_1.0.4_iphoneos-arm64e.deb
+Size: 79016
+MD5sum: dba64ee801d147bd61084c0cd64cc95d
+SHA1: 26bc428a8f94568c64fcf2064bb2e69912d93199
+SHA256: 1457b259da3917cab0f441796fcf359160be29e2e3d5a64a4e89a3713ced7f78
+Icon: https://goldenappleguy.github.io/repo/icons/com.goldenappleguy.confirmrotatereborn.png
+SileoDepiction: https://goldenappleguy.github.io/repo/depictions/com.goldenappleguy.confirmrotatereborn.json
