@@ -472,3 +472,60 @@ MD5sum: 75a5b0fbd0e905d0f97b47620fb08838
 SHA1: df45999353b0e661c02b6b5b586a8c098802748e
 SHA256: 74026e018a99744c50204bd6634c430331e87c4bda2acfe10cc3f549e8f6cf23
 SileoDepiction: https://goldenappleguy.github.io/repo/depictions/com.goldenappleguy.mull.json
+
+Package: com.goldenappleguy.mull
+Name: Mull
+Description: Adds a short countdown before Messages sends a message and before Phone and FaceTime calls start, with a way to cancel each one.
+Maintainer: GoldenAppleGuy
+Author: GoldenAppleGuy
+Icon: https://goldenappleguy.github.io/repo/icons/com.goldenappleguy.mull.png
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Recommends: com.opa334.ccsupport
+Architecture: iphoneos-arm
+Version: 1.0.1
+Installed-Size: 760
+Filename: debs/com.goldenappleguy.mull_1.0.1_iphoneos-arm.deb
+Size: 77326
+MD5sum: ff98918a4d50d7643b8b88f4351c5a0d
+SHA1: 264aeb3a88393bb8f4ff23ae6bc53e0db5e90f95
+SHA256: 4c553230839b633973109d7ef350a01026e6a5c84eaa70102340018f118fc93e
+SileoDepiction: https://goldenappleguy.github.io/repo/depictions/com.goldenappleguy.mull.json
+
+Package: com.goldenappleguy.mull
+Name: Mull
+Description: Adds a short countdown before Messages sends a message and before Phone and FaceTime calls start, with a way to cancel each one.
+Maintainer: GoldenAppleGuy
+Author: GoldenAppleGuy
+Icon: https://goldenappleguy.github.io/repo/icons/com.goldenappleguy.mull.png
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Recommends: com.opa334.ccsupport
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Installed-Size: 760
+Filename: debs/com.goldenappleguy.mull_1.0.1_iphoneos-arm64.deb
+Size: 77514
+MD5sum: 7633bc95c420f97075d45b240f1dcb3a
+SHA1: 214156ac8d783f50317dcb3931a68f2ef9751e4e
+SHA256: a239e3cd994e2a629140da249aa03ff0f15515daa9a023818ccf03eea30ca050
+SileoDepiction: https://goldenappleguy.github.io/repo/depictions/com.goldenappleguy.mull.json
+
+Package: com.goldenappleguy.mull
+Name: Mull
+Description: Adds a short countdown before Messages sends a message and before Phone and FaceTime calls start, with a way to cancel each one.
+Maintainer: GoldenAppleGuy
+Author: GoldenAppleGuy
+Icon: https://goldenappleguy.github.io/repo/icons/com.goldenappleguy.mull.png
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Recommends: com.opa334.ccsupport
+Architecture: iphoneos-arm64e
+Version: 1.0.1
+Installed-Size: 760
+Filename: debs/com.goldenappleguy.mull_1.0.1_iphoneos-arm64e.deb
+Size: 77380
+MD5sum: 8fa58112d7ebe9c40cb23fecc6c5a3e4
+SHA1: 4154e1405c60704cb23c8ed6cacba1d7cc2bf195
+SHA256: 349b90e2b80f698293daf7f69c3f4bfc0654c4b9dbe662a2b7445b9085dd7475
+SileoDepiction: https://goldenappleguy.github.io/repo/depictions/com.goldenappleguy.mull.json

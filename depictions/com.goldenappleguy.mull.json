@@ -21,7 +21,7 @@
         {
           "class": "DepictionTableTextView",
           "title": "Version",
-          "text": "1.0.0"
+          "text": "1.0.1"
         },
         {
           "class": "DepictionTableTextView",
@@ -44,6 +44,15 @@
       "tabname": "Changelog",
       "class": "DepictionStackView",
       "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "1.0.1",
+          "useBoldText": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- The swipe action in Messages is now just an icon.\n- Messages on iOS 26: the countdown shows on the new Send button (tested in the simulator)."
+        },
         {
           "class": "DepictionSubheaderView",
           "title": "1.0.0",
