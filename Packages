@@ -658,8 +658,8 @@ Architecture: iphoneos-arm64
 Version: 1.0.0
 Installed-Size: 372
 Filename: debs/com.goldenappleguy.zefyreborn_1.0.0_iphoneos-arm64.deb
-Size: 70526
-MD5sum: 5c4bd9d36e0fc5cce8235b3a26d70444
-SHA1: 6b283862871ea015921840945c4945f1c9e74ebc
-SHA256: c265c12411d7a09b0390d1cc6917c50cea9bce5dabf94d0a9382baf6c6eff11c
+Size: 70508
+MD5sum: ef767dd075cc0cd9f1c1bef01f931d0d
+SHA1: b14dae411a70e442584a49788bdae2c97f9147f3
+SHA256: 56421cda8ea1541cb034123c885437a05b5d8c4812a81d74720b177c214dd28b
 SileoDepiction: https://goldenappleguy.github.io/repo/depictions/com.goldenappleguy.zefyreborn.json
