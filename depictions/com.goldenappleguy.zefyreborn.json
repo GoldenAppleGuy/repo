@@ -32,6 +32,11 @@
           "class": "DepictionTableTextView",
           "title": "Developer",
           "text": "GoldenAppleGuy"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Source Code",
+          "action": "https://github.com/GoldenAppleGuy/zefy-reborn"
         }
       ]
     },
