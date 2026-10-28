@@ -655,11 +655,11 @@ Conflicts: com.goldenappleguy.spotifyurlplay
 Replaces: com.goldenappleguy.spotifyurlplay
 Icon: https://goldenappleguy.github.io/repo/icons/com.goldenappleguy.zefyreborn.png
 Architecture: iphoneos-arm64
-Version: 0.19.1
+Version: 1.0.0
 Installed-Size: 372
-Filename: debs/com.goldenappleguy.zefyreborn_0.19.1_iphoneos-arm64.deb
-Size: 70328
-MD5sum: 6d649fa743f37bf939c095a6e02a6bbe
-SHA1: 37fd0a1596ffac3318f6991a583f821076af2a7c
-SHA256: 719ae1bcf44b3339db4b39dd70724b5393db241a04491b14e53176c1c230ff05
+Filename: debs/com.goldenappleguy.zefyreborn_1.0.0_iphoneos-arm64.deb
+Size: 70526
+MD5sum: 5c4bd9d36e0fc5cce8235b3a26d70444
+SHA1: 6b283862871ea015921840945c4945f1c9e74ebc
+SHA256: c265c12411d7a09b0390d1cc6917c50cea9bce5dabf94d0a9382baf6c6eff11c
 SileoDepiction: https://goldenappleguy.github.io/repo/depictions/com.goldenappleguy.zefyreborn.json

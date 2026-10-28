@@ -21,7 +21,7 @@
         {
           "class": "DepictionTableTextView",
           "title": "Version",
-          "text": "0.19.1"
+          "text": "1.0.0"
         },
         {
           "class": "DepictionTableTextView",
@@ -41,12 +41,12 @@
       "views": [
         {
           "class": "DepictionSubheaderView",
-          "title": "0.19.1",
+          "title": "1.0.0",
           "useBoldText": true
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "- First public release."
+          "markdown": "- First release."
         }
       ]
     }
