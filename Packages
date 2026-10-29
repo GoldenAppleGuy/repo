@@ -703,3 +703,63 @@ MD5sum: 16a8775b996487b09634ec11e41a9f94
 SHA1: 89953b3960eedb80df03d7d0820203ec798e0a4b
 SHA256: f11da6fa89a78b1c3a649b2b03a517d3d0cf73e6f72d2d21f8e96700948cf382
 SileoDepiction: https://goldenappleguy.github.io/repo/depictions/com.goldenappleguy.zefyreborn.json
+
+Package: com.goldenappleguy.zefyreborn
+Name: Zefy Reborn
+Description: Lets Spotify act like the built-in music player. Press play in Control Center or open a Spotify link and music starts right away, and a command covers the rest.
+Maintainer: GoldenAppleGuy
+Author: GoldenAppleGuy
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Conflicts: com.goldenappleguy.spotifyurlplay
+Replaces: com.goldenappleguy.spotifyurlplay
+Icon: https://goldenappleguy.github.io/repo/icons/com.goldenappleguy.zefyreborn.png
+Architecture: iphoneos-arm
+Version: 1.0.1
+Installed-Size: 372
+Filename: debs/com.goldenappleguy.zefyreborn_1.0.1_iphoneos-arm.deb
+Size: 73768
+MD5sum: e734b9288e1de1186042a053b7f6e755
+SHA1: db162bafb1b2da76421db9d1a749ce1aa296db51
+SHA256: 2445a83b380fe1dc0ce33c2c4a16e883e3a8b1aa3c5140ab5f97f3dea614a223
+SileoDepiction: https://goldenappleguy.github.io/repo/depictions/com.goldenappleguy.zefyreborn.json
+
+Package: com.goldenappleguy.zefyreborn
+Name: Zefy Reborn
+Description: Lets Spotify act like the built-in music player. Press play in Control Center or open a Spotify link and music starts right away, and a command covers the rest.
+Maintainer: GoldenAppleGuy
+Author: GoldenAppleGuy
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Conflicts: com.goldenappleguy.spotifyurlplay
+Replaces: com.goldenappleguy.spotifyurlplay
+Icon: https://goldenappleguy.github.io/repo/icons/com.goldenappleguy.zefyreborn.png
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Installed-Size: 372
+Filename: debs/com.goldenappleguy.zefyreborn_1.0.1_iphoneos-arm64.deb
+Size: 73784
+MD5sum: 9f7af3b09aca238784e84adb4409c3dd
+SHA1: 23f07effdf82d3fbd031ecdd80c8ef193f5ce085
+SHA256: 9be1bdd920801773821671a65586e7b51c029866acceb77aa2393ed2a4c81933
+SileoDepiction: https://goldenappleguy.github.io/repo/depictions/com.goldenappleguy.zefyreborn.json
+
+Package: com.goldenappleguy.zefyreborn
+Name: Zefy Reborn
+Description: Lets Spotify act like the built-in music player. Press play in Control Center or open a Spotify link and music starts right away, and a command covers the rest.
+Maintainer: GoldenAppleGuy
+Author: GoldenAppleGuy
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Conflicts: com.goldenappleguy.spotifyurlplay
+Replaces: com.goldenappleguy.spotifyurlplay
+Icon: https://goldenappleguy.github.io/repo/icons/com.goldenappleguy.zefyreborn.png
+Architecture: iphoneos-arm64e
+Version: 1.0.1
+Installed-Size: 372
+Filename: debs/com.goldenappleguy.zefyreborn_1.0.1_iphoneos-arm64e.deb
+Size: 71022
+MD5sum: 1bed2c396d0c8e6dbfda83cf8935ec12
+SHA1: a9d5ceb6d1f77af38488433512ff50e709786378
+SHA256: b6a981ad246b68758ed8a08463826180d924057daca6a96b9d204a7dc7e59b0a
+SileoDepiction: https://goldenappleguy.github.io/repo/depictions/com.goldenappleguy.zefyreborn.json
