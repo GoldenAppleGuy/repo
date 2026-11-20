@@ -710,10 +710,10 @@ Architecture: iphoneos-arm
 Version: 1.0.0
 Installed-Size: 476
 Filename: debs/com.goldenappleguy.ythideprogress_1.0.0_iphoneos-arm.deb
-Size: 56198
-MD5sum: aa79f47725214b1adb10764fe7e76154
-SHA1: d12d18dfa1fdfd1d4f0b0b400f668f140159804f
-SHA256: d23941d897f6a0482591ca382de0a9e5d1e103bf7d7c3d435a0dd4e068a65376
+Size: 57140
+MD5sum: 4cdcdfb92f661b7197456a496ad05859
+SHA1: 6fc7f50316e986df724ac7379abdb389cc9d911e
+SHA256: 86e7bbf33ba699d6bec552da690cfe1eb1b1fcc7191efa345e57d9df53271641
 SileoDepiction: https://goldenappleguy.github.io/repo/depictions/com.goldenappleguy.ythideprogress.json
 
 Package: com.goldenappleguy.ythideprogress
@@ -728,10 +728,10 @@ Architecture: iphoneos-arm64
 Version: 1.0.0
 Installed-Size: 476
 Filename: debs/com.goldenappleguy.ythideprogress_1.0.0_iphoneos-arm64.deb
-Size: 56230
-MD5sum: cd822c932a88d309f23a96b97ee1bc98
-SHA1: 407f3f9d9ade74ab7350c360b37626f29c9a56cd
-SHA256: a389dc725deaaeded2e5f0cb47d8fc6203770c4862b4f54012bd1637a4a80a51
+Size: 57182
+MD5sum: db70435850755cccf5368304c060b7e6
+SHA1: 18f2925ed6b4c49cc498d2366d5f46e4ab59b483
+SHA256: eb5c1207653d62f7211cff23b1f513b1c1ca2df6af0aebf51411aee1def10419
 SileoDepiction: https://goldenappleguy.github.io/repo/depictions/com.goldenappleguy.ythideprogress.json
 
 Package: com.goldenappleguy.ythideprogress
@@ -746,10 +746,10 @@ Architecture: iphoneos-arm64e
 Version: 1.0.0
 Installed-Size: 476
 Filename: debs/com.goldenappleguy.ythideprogress_1.0.0_iphoneos-arm64e.deb
-Size: 56094
-MD5sum: 53bd4f4ff7bcf65223f3da73fab9c046
-SHA1: 98397ee818241b68014c7c6f4a5f69ad69ed7d13
-SHA256: 41a9bda135d7b042b4129ad7e32e13f99d550207aa5e54953362f29bef6ed46a
+Size: 57170
+MD5sum: 0e4d5bf70273813ef408e4180f04e43c
+SHA1: 1478d54cfb3de6a9ddb64bef8bf3536c855939d9
+SHA256: 692c563fd397abb051b9253da6675b887ac9feb050ebc86cd8824b44ad4123ed
 SileoDepiction: https://goldenappleguy.github.io/repo/depictions/com.goldenappleguy.ythideprogress.json
 
 Package: com.goldenappleguy.zefyreborn
