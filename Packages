@@ -644,6 +644,114 @@ SHA1: b4724d72d8832ae82451f4f85162617b3579e0c2
 SHA256: 9bbee0912a9736190688a900988acf049c49ec7f8535c9b7bfe9db40a57ecc7a
 SileoDepiction: https://goldenappleguy.github.io/repo/depictions/com.goldenappleguy.mull.json
 
+Package: com.goldenappleguy.ytcommentbox
+Name: YTCommentBox
+Description: Shows YouTube's "Comment..." box under every video in place of the comments preview. Tap it to start writing a comment.
+Maintainer: GoldenAppleGuy
+Author: GoldenAppleGuy
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 14.0)
+Icon: https://goldenappleguy.github.io/repo/icons/com.goldenappleguy.ytcommentbox.png
+Architecture: iphoneos-arm
+Version: 1.0.0
+Installed-Size: 204
+Filename: debs/com.goldenappleguy.ytcommentbox_1.0.0_iphoneos-arm.deb
+Size: 14570
+MD5sum: 9b812839184697f135040d3e42487f1f
+SHA1: 99c24dfa81d9afde7a53c0549a998762ae1db836
+SHA256: 251881f9bafef9cc373f4c16e1ac1b960de9fd8a9c3c7ef2189d49342cb78262
+SileoDepiction: https://goldenappleguy.github.io/repo/depictions/com.goldenappleguy.ytcommentbox.json
+
+Package: com.goldenappleguy.ytcommentbox
+Name: YTCommentBox
+Description: Shows YouTube's "Comment..." box under every video in place of the comments preview. Tap it to start writing a comment.
+Maintainer: GoldenAppleGuy
+Author: GoldenAppleGuy
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 14.0)
+Icon: https://goldenappleguy.github.io/repo/icons/com.goldenappleguy.ytcommentbox.png
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Installed-Size: 204
+Filename: debs/com.goldenappleguy.ytcommentbox_1.0.0_iphoneos-arm64.deb
+Size: 14626
+MD5sum: 457cc3a364ab55dd5a012a1ae1d9a377
+SHA1: 6b4c99058015f354e5732aeaed13c8c4b2657dc2
+SHA256: 8fea57fd52bcc33cc471ac2f50cd417fe80543862ecbeed6bfa2f778f9e5ee56
+SileoDepiction: https://goldenappleguy.github.io/repo/depictions/com.goldenappleguy.ytcommentbox.json
+
+Package: com.goldenappleguy.ytcommentbox
+Name: YTCommentBox
+Description: Shows YouTube's "Comment..." box under every video in place of the comments preview. Tap it to start writing a comment.
+Maintainer: GoldenAppleGuy
+Author: GoldenAppleGuy
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 14.0)
+Icon: https://goldenappleguy.github.io/repo/icons/com.goldenappleguy.ytcommentbox.png
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Installed-Size: 204
+Filename: debs/com.goldenappleguy.ytcommentbox_1.0.0_iphoneos-arm64e.deb
+Size: 14580
+MD5sum: cd3f65d5a0f1bc68c50c7bf41ecc994d
+SHA1: b10832715e14d33699fcc3d73e1b8178eeeef222
+SHA256: 1d5084e20c8283284b179deae2adb90ca914e5250363fd9bc82ec254a0643631
+SileoDepiction: https://goldenappleguy.github.io/repo/depictions/com.goldenappleguy.ytcommentbox.json
+
+Package: com.goldenappleguy.ythideprogress
+Name: YTHideProgress
+Description: Hides YouTube's progress bar while you are not using it: under the video, in the miniplayer, on thumbnails, in picture in picture and in the Lock Screen and Control Center players. Choose the channels it applies to.
+Maintainer: GoldenAppleGuy
+Author: GoldenAppleGuy
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 14.0)
+Icon: https://goldenappleguy.github.io/repo/icons/com.goldenappleguy.ythideprogress.png
+Architecture: iphoneos-arm
+Version: 1.0.0
+Installed-Size: 476
+Filename: debs/com.goldenappleguy.ythideprogress_1.0.0_iphoneos-arm.deb
+Size: 55322
+MD5sum: c057b45df6c5e2c16d03f71d5cd243a0
+SHA1: 52f7a51354bb4ec4c8fa92d24e299246b6279752
+SHA256: de3ac71e0e75f5ba98db68189e6bfb964338c730b32874ca03dde71b5308cb67
+SileoDepiction: https://goldenappleguy.github.io/repo/depictions/com.goldenappleguy.ythideprogress.json
+
+Package: com.goldenappleguy.ythideprogress
+Name: YTHideProgress
+Description: Hides YouTube's progress bar while you are not using it: under the video, in the miniplayer, on thumbnails, in picture in picture and in the Lock Screen and Control Center players. Choose the channels it applies to.
+Maintainer: GoldenAppleGuy
+Author: GoldenAppleGuy
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 14.0)
+Icon: https://goldenappleguy.github.io/repo/icons/com.goldenappleguy.ythideprogress.png
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Installed-Size: 476
+Filename: debs/com.goldenappleguy.ythideprogress_1.0.0_iphoneos-arm64.deb
+Size: 55232
+MD5sum: 95397140ef79a2b9c2589f9a509f8c1d
+SHA1: 067d73e7a370c51ae4a0bd87a48e6ed91a8a1818
+SHA256: 0c59cca4f48f661e3cf72c7627c2fe83ea0633b384d910792b87a1cdeb566851
+SileoDepiction: https://goldenappleguy.github.io/repo/depictions/com.goldenappleguy.ythideprogress.json
+
+Package: com.goldenappleguy.ythideprogress
+Name: YTHideProgress
+Description: Hides YouTube's progress bar while you are not using it: under the video, in the miniplayer, on thumbnails, in picture in picture and in the Lock Screen and Control Center players. Choose the channels it applies to.
+Maintainer: GoldenAppleGuy
+Author: GoldenAppleGuy
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 14.0)
+Icon: https://goldenappleguy.github.io/repo/icons/com.goldenappleguy.ythideprogress.png
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Installed-Size: 476
+Filename: debs/com.goldenappleguy.ythideprogress_1.0.0_iphoneos-arm64e.deb
+Size: 55182
+MD5sum: a7e404177242f806d22ae236ca22fb4f
+SHA1: 71286f191ee9307662e24724b63b540b2edb1bdf
+SHA256: 01372ae4cb7baed96bad5b29ace4d3e0d1f565272eb6fc8d14f9aafb2a38d48f
+SileoDepiction: https://goldenappleguy.github.io/repo/depictions/com.goldenappleguy.ythideprogress.json
+
 Package: com.goldenappleguy.zefyreborn
 Name: Zefy Reborn
 Description: Lets Spotify act like the built-in music player. Press play in Control Center or open a Spotify link and music starts right away, and a command covers the rest.
