@@ -809,6 +809,60 @@ SHA1: 1478d54cfb3de6a9ddb64bef8bf3536c855939d9
 SHA256: 692c563fd397abb051b9253da6675b887ac9feb050ebc86cd8824b44ad4123ed
 SileoDepiction: https://goldenappleguy.github.io/repo/depictions/com.goldenappleguy.ythideprogress.json
 
+Package: com.goldenappleguy.ythideprogress
+Name: YTHideProgress
+Description: Hides YouTube's progress bar while you are not using it: under the video, in the miniplayer, on thumbnails, in picture in picture and in the Lock Screen and Control Center players. Choose the channels it applies to.
+Maintainer: GoldenAppleGuy
+Author: GoldenAppleGuy
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 14.0)
+Icon: https://goldenappleguy.github.io/repo/icons/com.goldenappleguy.ythideprogress.png
+Architecture: iphoneos-arm
+Version: 1.0.1
+Installed-Size: 476
+Filename: debs/com.goldenappleguy.ythideprogress_1.0.1_iphoneos-arm.deb
+Size: 57482
+MD5sum: a97cabbda2442fd470aa8002b410b84a
+SHA1: 08b32d6d69a1fa8e522d91e3ac82baec6bb139ae
+SHA256: 1a6cafc454f6c91195db42d75ca389c63fd1d461b14663e4e08120c26420164b
+SileoDepiction: https://goldenappleguy.github.io/repo/depictions/com.goldenappleguy.ythideprogress.json
+
+Package: com.goldenappleguy.ythideprogress
+Name: YTHideProgress
+Description: Hides YouTube's progress bar while you are not using it: under the video, in the miniplayer, on thumbnails, in picture in picture and in the Lock Screen and Control Center players. Choose the channels it applies to.
+Maintainer: GoldenAppleGuy
+Author: GoldenAppleGuy
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 14.0)
+Icon: https://goldenappleguy.github.io/repo/icons/com.goldenappleguy.ythideprogress.png
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Installed-Size: 476
+Filename: debs/com.goldenappleguy.ythideprogress_1.0.1_iphoneos-arm64.deb
+Size: 57454
+MD5sum: 777826c39ae7b9b77a2aedbd1d0659bf
+SHA1: 13de89189e4fda30c5a7f1e20486bc91e5cea2af
+SHA256: 94cd6f9082d202d2965d9e89bf40c3fbf18d1bf874cf604de76e780d28d0c1c8
+SileoDepiction: https://goldenappleguy.github.io/repo/depictions/com.goldenappleguy.ythideprogress.json
+
+Package: com.goldenappleguy.ythideprogress
+Name: YTHideProgress
+Description: Hides YouTube's progress bar while you are not using it: under the video, in the miniplayer, on thumbnails, in picture in picture and in the Lock Screen and Control Center players. Choose the channels it applies to.
+Maintainer: GoldenAppleGuy
+Author: GoldenAppleGuy
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 14.0)
+Icon: https://goldenappleguy.github.io/repo/icons/com.goldenappleguy.ythideprogress.png
+Architecture: iphoneos-arm64e
+Version: 1.0.1
+Installed-Size: 476
+Filename: debs/com.goldenappleguy.ythideprogress_1.0.1_iphoneos-arm64e.deb
+Size: 57416
+MD5sum: 433aa3eefe297c21a36a08021fc15dca
+SHA1: ec5bac2f092f4564bb1fa89b67129f52a1324689
+SHA256: 02b0e5ce3759ad1abb6e3fe4e00fef0f7ddd69ccf78a0cf0ab82753a0f8091f1
+SileoDepiction: https://goldenappleguy.github.io/repo/depictions/com.goldenappleguy.ythideprogress.json
+
 Package: com.goldenappleguy.zefyreborn
 Name: Zefy Reborn
 Description: Lets Spotify act like the built-in music player. Press play in Control Center or open a Spotify link and music starts right away, and a command covers the rest.
