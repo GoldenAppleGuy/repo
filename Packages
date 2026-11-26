@@ -809,6 +809,60 @@ SHA1: 4a7822df708059d544470c6e9b2642b9ce66e178
 SHA256: 5e2e02ca012a5e186b38bea466fecdefabd152508e42135655b660d86444d342
 SileoDepiction: https://goldenappleguy.github.io/repo/depictions/com.goldenappleguy.ytcommentbox.json
 
+Package: com.goldenappleguy.ytcommentbox
+Name: YTCommentBox
+Description: Shows YouTube's "Comment..." box under every video in place of the comments preview. Tap it to start writing a comment.
+Maintainer: GoldenAppleGuy
+Author: GoldenAppleGuy
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 14.0)
+Icon: https://goldenappleguy.github.io/repo/icons/com.goldenappleguy.ytcommentbox.png
+Architecture: iphoneos-arm
+Version: 1.0.2
+Installed-Size: 204
+Filename: debs/com.goldenappleguy.ytcommentbox_1.0.2_iphoneos-arm.deb
+Size: 15738
+MD5sum: dfa6b682f31b2e8144d50e9076203c77
+SHA1: 3566db074b75509a632c4638908bec949bb1cea8
+SHA256: ff9e378f8846e3ab9f6be146e41c61e90d2a08cb46890474e1632dc010b02aac
+SileoDepiction: https://goldenappleguy.github.io/repo/depictions/com.goldenappleguy.ytcommentbox.json
+
+Package: com.goldenappleguy.ytcommentbox
+Name: YTCommentBox
+Description: Shows YouTube's "Comment..." box under every video in place of the comments preview. Tap it to start writing a comment.
+Maintainer: GoldenAppleGuy
+Author: GoldenAppleGuy
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 14.0)
+Icon: https://goldenappleguy.github.io/repo/icons/com.goldenappleguy.ytcommentbox.png
+Architecture: iphoneos-arm64
+Version: 1.0.2
+Installed-Size: 204
+Filename: debs/com.goldenappleguy.ytcommentbox_1.0.2_iphoneos-arm64.deb
+Size: 15798
+MD5sum: 7e1f14c52ceef0b7f27ffdc8d96710ee
+SHA1: 88dd984ed5e3f09bb0a135049032dc121547f8b6
+SHA256: cc2967c32e7f2887ac8193a023ee76b83a55bddea348f211b7f42d9c94adde4a
+SileoDepiction: https://goldenappleguy.github.io/repo/depictions/com.goldenappleguy.ytcommentbox.json
+
+Package: com.goldenappleguy.ytcommentbox
+Name: YTCommentBox
+Description: Shows YouTube's "Comment..." box under every video in place of the comments preview. Tap it to start writing a comment.
+Maintainer: GoldenAppleGuy
+Author: GoldenAppleGuy
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 14.0)
+Icon: https://goldenappleguy.github.io/repo/icons/com.goldenappleguy.ytcommentbox.png
+Architecture: iphoneos-arm64e
+Version: 1.0.2
+Installed-Size: 204
+Filename: debs/com.goldenappleguy.ytcommentbox_1.0.2_iphoneos-arm64e.deb
+Size: 15768
+MD5sum: f6fbbe76d297cb41064aa870cd7df451
+SHA1: 43022731ecdbe48b810ca7acb68f294065bf4eae
+SHA256: 1077ac8a8008bc392ba5437f2095fdb423eeda112a5a821ed9cdf8cf00a4404d
+SileoDepiction: https://goldenappleguy.github.io/repo/depictions/com.goldenappleguy.ytcommentbox.json
+
 Package: com.goldenappleguy.ythideprogress
 Name: YTHideProgress
 Description: Hides YouTube's progress bar while you are not using it: under the video, in the miniplayer, on thumbnails, in picture in picture and in the Lock Screen and Control Center players. Choose the channels it applies to.

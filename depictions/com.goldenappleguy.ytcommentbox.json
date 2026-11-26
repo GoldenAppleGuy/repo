@@ -21,7 +21,7 @@
         {
           "class": "DepictionTableTextView",
           "title": "Version",
-          "text": "1.0.1"
+          "text": "1.0.2"
         },
         {
           "class": "DepictionTableTextView",
@@ -44,6 +44,15 @@
       "tabname": "Changelog",
       "class": "DepictionStackView",
       "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "1.0.2",
+          "useBoldText": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- The comment box, the card around it and the \"Comments\" title no longer flash for a frame when YouTube redraws or replaces the comments card."
+        },
         {
           "class": "DepictionSubheaderView",
           "title": "1.0.1",
